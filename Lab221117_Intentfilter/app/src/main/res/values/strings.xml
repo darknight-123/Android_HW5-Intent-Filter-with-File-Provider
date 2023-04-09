@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab221117_IntentFilter</string>
+    <string name="title_MyImageAct">我的 Intent Filter 服務程式</string>
+</resources>
